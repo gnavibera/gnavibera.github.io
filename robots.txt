@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gnavibera.github.io/sitemap
+Sitemap: https://gnavibera.github.io/app/sitemap
+Sitemap: https://gnavibera.github.io/assets/sitemap
+Sitemap: https://gnavibera.github.io/css/sitemap
+Sitemap: https://gnavibera.github.io/includes/sitemap
+Sitemap: https://gnavibera.github.io/item/sitemap
+Sitemap: https://gnavibera.github.io/src/sitemap
